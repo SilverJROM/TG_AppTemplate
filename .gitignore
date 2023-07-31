@@ -1,0 +1,22 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore log files
+*.log
+access_control*
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+
+# Ignore test coverage reports
+coverage/
+
+# Ignore built files
+dist/
