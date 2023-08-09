@@ -12,6 +12,9 @@ Before running this Telegram bot, make sure you have the following installed:
 ## Installation
 
 1. Clone this repository to your local machine or download the code as a ZIP archive.
+```sh
+git clone https://github.com/SilverJROM/TG_AppTemplate
+```
 
 2. Navigate to the project directory in your terminal or command prompt.
 
